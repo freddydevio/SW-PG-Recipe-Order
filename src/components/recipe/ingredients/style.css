@@ -1,0 +1,14 @@
+.ingredient-item {
+    margin-bottom: .5rem;
+    display: flex;
+    flex-direction: row!important;
+}
+
+.ingredient-item .card-block {
+    padding: 1rem;
+}
+
+.ingredient-item .amount {
+    width: 7rem;
+    display: inline-block;
+}
